@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\bin\Debug\MakingProgress.exe.config
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\bin\Debug\MakingProgress.exe
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\bin\Debug\MakingProgress.pdb
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\obj\Debug\MakingProgress.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\obj\Debug\MakingProgress.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\obj\Debug\MakingProgress.exe
+C:\Users\ZBook\Desktop\VS 2022\MakingProgress\MakingProgress\obj\Debug\MakingProgress.pdb
