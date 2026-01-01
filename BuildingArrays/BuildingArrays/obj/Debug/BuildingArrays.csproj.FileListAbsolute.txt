@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\bin\Debug\BuildingArrays.exe.config
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\bin\Debug\BuildingArrays.exe
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\bin\Debug\BuildingArrays.pdb
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\obj\Debug\BuildingArrays.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\obj\Debug\BuildingArrays.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\obj\Debug\BuildingArrays.exe
+C:\Users\ZBook\Desktop\VS 2022\BuildingArrays\BuildingArrays\obj\Debug\BuildingArrays.pdb
