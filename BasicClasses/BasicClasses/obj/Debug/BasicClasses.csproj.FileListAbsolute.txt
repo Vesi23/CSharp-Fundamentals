@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\bin\Debug\BasicClasses.exe.config
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\bin\Debug\BasicClasses.exe
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\bin\Debug\BasicClasses.pdb
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\obj\Debug\BasicClasses.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\obj\Debug\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\obj\Debug\BasicClasses.exe
+C:\Users\ZBook\Desktop\VS 2022\BasicClasses\BasicClasses\obj\Debug\BasicClasses.pdb
