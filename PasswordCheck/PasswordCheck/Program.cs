@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PasswordCheck
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create password
+            string password = "a92301j2add";
+
+            // Get password length
+        int passwordLength=password.Length;
+
+
+            // Check if password uses symbol
+            int passwordCheck = password.IndexOf("!");
+
+            // Print results
+            Console.WriteLine($"The user password is {password}. Its length is {passwordLength} and it receives a {passwordCheck} check.");
+
+        }
+    }
+}
