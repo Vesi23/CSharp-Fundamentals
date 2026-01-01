@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\ZBook\Desktop\VS 2022\Methods\Methods\obj\Debug\Methods.pdb
