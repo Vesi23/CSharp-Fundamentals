@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\bin\Debug\Substring.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\bin\Debug\Substring.exe
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\bin\Debug\Substring.pdb
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\obj\Debug\Substring.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\obj\Debug\Substring.exe
+C:\Users\ZBook\Desktop\VS 2022\Substring\Substring\obj\Debug\Substring.pdb
