@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\bin\Debug\ArrayLength.exe.config
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\bin\Debug\ArrayLength.exe
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\bin\Debug\ArrayLength.pdb
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\obj\Debug\ArrayLength.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\obj\Debug\ArrayLength.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\obj\Debug\ArrayLength.exe
+C:\Users\ZBook\Desktop\VS 2022\ArrayLength\ArrayLength\obj\Debug\ArrayLength.pdb
