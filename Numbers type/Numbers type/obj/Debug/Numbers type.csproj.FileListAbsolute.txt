@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\bin\Debug\Numbers type.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\bin\Debug\Numbers type.exe
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\bin\Debug\Numbers type.pdb
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\obj\Debug\Numbers type.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\obj\Debug\Numbers type.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\obj\Debug\Numbers type.exe
+C:\Users\ZBook\Desktop\VS 2022\Numbers type\Numbers type\obj\Debug\Numbers type.pdb
