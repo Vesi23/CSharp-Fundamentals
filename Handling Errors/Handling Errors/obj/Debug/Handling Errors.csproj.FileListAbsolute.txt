@@ -1,0 +1,2 @@
+C:\Users\ZBook\Desktop\VS 2022\Handling Errors\Handling Errors\obj\Debug\Handling Errors.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Handling Errors\Handling Errors\obj\Debug\Handling Errors.csproj.CoreCompileInputs.cache
