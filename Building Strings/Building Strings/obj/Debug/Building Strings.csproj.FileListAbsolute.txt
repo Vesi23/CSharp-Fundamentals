@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\bin\Debug\Building Strings.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\bin\Debug\Building Strings.exe
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\bin\Debug\Building Strings.pdb
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\obj\Debug\Building Strings.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\obj\Debug\Building Strings.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\obj\Debug\Building Strings.exe
+C:\Users\ZBook\Desktop\VS 2022\Building Strings\Building Strings\obj\Debug\Building Strings.pdb
