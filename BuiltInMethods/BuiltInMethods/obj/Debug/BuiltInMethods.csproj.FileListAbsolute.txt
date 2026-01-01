@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.exe.config
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.exe
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.pdb
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.exe
+C:\Users\ZBook\Desktop\VS 2022\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.pdb
