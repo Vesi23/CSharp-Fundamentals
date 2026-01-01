@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\bin\Debug\PlanetCalculations.exe.config
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\bin\Debug\PlanetCalculations.exe
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\bin\Debug\PlanetCalculations.pdb
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\obj\Debug\PlanetCalculations.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\obj\Debug\PlanetCalculations.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\obj\Debug\PlanetCalculations.exe
+C:\Users\ZBook\Desktop\VS 2022\PlanetCalculations\PlanetCalculations\obj\Debug\PlanetCalculations.pdb
