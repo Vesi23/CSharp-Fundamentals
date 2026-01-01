@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\bin\Debug\AccessingArrays.exe.config
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\bin\Debug\AccessingArrays.exe
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\bin\Debug\AccessingArrays.pdb
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\obj\Debug\AccessingArrays.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\obj\Debug\AccessingArrays.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\obj\Debug\AccessingArrays.exe
+C:\Users\ZBook\Desktop\VS 2022\AccessingArrays\AccessingArrays\obj\Debug\AccessingArrays.pdb
