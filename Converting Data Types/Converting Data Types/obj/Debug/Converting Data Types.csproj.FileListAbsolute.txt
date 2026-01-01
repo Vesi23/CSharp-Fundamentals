@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\bin\Debug\Converting Data Types.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\bin\Debug\Converting Data Types.exe
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\bin\Debug\Converting Data Types.pdb
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\obj\Debug\Converting Data Types.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\obj\Debug\Converting Data Types.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\obj\Debug\Converting Data Types.exe
+C:\Users\ZBook\Desktop\VS 2022\Converting Data Types\Converting Data Types\obj\Debug\Converting Data Types.pdb
