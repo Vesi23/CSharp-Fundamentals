@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\bin\Debug\InputEhample.exe.config
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\bin\Debug\InputEhample.exe
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\bin\Debug\InputEhample.pdb
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\obj\Debug\InputEhample.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\obj\Debug\InputEhample.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\obj\Debug\InputEhample.exe
+C:\Users\ZBook\Desktop\VS 2022\InputEhample\InputEhample\obj\Debug\InputEhample.pdb
