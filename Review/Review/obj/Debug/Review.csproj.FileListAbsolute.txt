@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\bin\Debug\Review.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\bin\Debug\Review.exe
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\bin\Debug\Review.pdb
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\obj\Debug\Review.exe
+C:\Users\ZBook\Desktop\VS 2022\Review\Review\obj\Debug\Review.pdb
