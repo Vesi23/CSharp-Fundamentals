@@ -1,0 +1,2 @@
+C:\Users\ZBook\Desktop\VS 2022\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
