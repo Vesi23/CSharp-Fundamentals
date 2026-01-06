@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\ZBook\Desktop\VS 2022\Properties\Properties\obj\Debug\Properties.pdb
