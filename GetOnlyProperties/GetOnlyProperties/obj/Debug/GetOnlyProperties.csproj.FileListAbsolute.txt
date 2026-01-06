@@ -1,0 +1,2 @@
+C:\Users\ZBook\Desktop\VS 2022\GetOnlyProperties\GetOnlyProperties\obj\Debug\GetOnlyProperties.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\GetOnlyProperties\GetOnlyProperties\obj\Debug\GetOnlyProperties.csproj.CoreCompileInputs.cache
