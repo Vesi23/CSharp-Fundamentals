@@ -1,0 +1,7 @@
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.exe.config
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.exe
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.pdb
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.AssemblyReference.cache
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.exe
+C:\Users\ZBook\Desktop\VS 2022\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.pdb
